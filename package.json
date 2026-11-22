@@ -1,0 +1,12 @@
+{
+  "name": "ai-job-matcher-frontend",
+  "version": "1.0.0",
+  "description": "Frontend UI for AI Job Matcher (Vercel Ready)",
+  "scripts": {
+    "dev": "npx serve -p 3000 .",
+    "start": "npx serve -p 3000 ."
+  },
+  "keywords": ["ai", "job-matcher", "rag", "pgvector", "vercel"],
+  "author": "",
+  "license": "MIT"
+}
